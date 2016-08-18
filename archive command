@@ -1,0 +1,1 @@
+ jar cvfm Reversi.jar manifest.txt Reversi.class pack
